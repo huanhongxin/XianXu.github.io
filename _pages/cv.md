@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Candidate in , 2018 (expected)
+* R.A. in Fudan Development Institute, 2023-2024
+* M.S. in Financial Technology, University of Macau, 2023
+* B.S. in Applied Mathematics, Southwest Jiaotong University, 2020
 
 Work experience
 ======
