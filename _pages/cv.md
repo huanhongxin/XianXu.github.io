@@ -1,6 +1,5 @@
----
 layout: archive
-title: "CV"
+title: "个人履历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,57 +8,85 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+个人简介
 ======
-* Ph.D. Candidate in , 2018 (expected)
-* R.A. in Fudan Development Institute, 2023-2024
-* M.S. in Financial Technology, University of Macau, 2023
-* B.S. in Applied Mathematics, Southwest Jiaotong University, 2020
+* 复旦大学经济学院副院长 (2024.10 - 至今)
+* 复旦大学保险应用创新研究院副院长、学术委员会秘书长 (2024.03 - 至今)
+* 复旦大学经济学院教授 (2018.12 - 至今)
+* 复旦大学风险管理与保险学系主任 (2018.09 - 至今)
+* 复旦-加州大学当代中国研究中心中方主任 (2015.09 - 2018.08)
+* 复旦大学经济学院副教授 (2013.12 - 2018.12)
+* 复旦大学中国保险与社会安全研究中心主任 (2013.10 - 至今)
+* 复旦大学经济学院助理教授 (2010.08 - 2013.12)
 
-Work experience
+工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.10 - 至今: 复旦大学经济学院副院长
+  * 复旦大学
+  * 负责经济学院的学术管理与发展
+  * 主管：学院领导
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024.03 - 至今: 复旦大学保险应用创新研究院副院长、学术委员会秘书长
+  * 复旦大学
+  * 负责保险创新相关研究及学术事务
+  * 主管：院领导
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018.12 - 至今: 复旦大学经济学院教授
+  * 复旦大学
+  * 主要从事保险学、风险管理相关的教学与研究工作
+  * 主管：学院领导
 
-Publications
+* 2018.09 - 至今: 复旦大学风险管理与保险学系主任
+  * 复旦大学
+  * 负责学系的教学、研究及发展规划
+  * 主管：学院领导
+
+* 2015.09 - 2018.08: 复旦-加州大学当代中国研究中心中方主任
+  * 复旦大学
+  * 主持中美合作研究项目，推动学术交流
+  * 主管：美国加州大学、复旦大学领导
+
+* 2013.12 - 2018.12: 复旦大学经济学院副教授
+  * 复旦大学
+  * 讲授保险学与金融学课程，进行学术研究
+  * 主管：学院领导
+
+* 2013.10 - 至今: 复旦大学中国保险与社会安全研究中心主任
+  * 复旦大学
+  * 负责研究中心的规划与运营
+  * 主管：学院领导
+
+* 2010.08 - 2013.12: 复旦大学经济学院助理教授
+  * 复旦大学
+  * 开设保险学基础课程，进行相关研究
+  * 主管：学院领导
+
+学术与社会兼职
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 教育部全国保险专业研究生教育指导委员会，委员
+* 财政部企业会计准则咨询委员会，委员
+* 中国保险学会，副会长
+* 中国金融学会，理事
+* 中国社会保障学会商业保险研究分会，副会长
+* 上海市保险学会，副会长
+* 中国医疗保险研究会支付改革专业委员会，常务委员
+* Asia Pacific Risk and Insurance Association (亚太风险与保险学会)，Board of Governors (常务理事)
+* International Academy of Financial Consumers (国际金融消费者学会)，Board of Directors (常务理事)
+* 清华大学中国保险与风险管理中心，学术委员
+* 《保险研究》、《中国保险》、《上海保险》、Disaster Prevention and Management编委
+* 《中国科学：信息科学》特约编辑
+
+荣誉奖项
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024: 瑞士再保险研究院-安盛研究基金“联合风险韧性伙伴关系”资助奖项全球第一名
+* 2024: 复旦大学第十一届“研究生心目中的好导师”（提名奖）
+* 2023: 复旦大学十佳“三好”研究生导学团队（提名奖）
+* 2022: 上海市第十五届哲学社会科学优秀成果奖二等奖
+* 2020: 全球保险科技卓越贡献奖
+* 2019: 英国科学院“牛顿高级学者”
+* 2018: 财政部“全国会计领军人才”
+* 2014: 上海市第十二届哲学社会科学优秀成果奖二等奖
+* 2014: 中国保险学会第六届优秀成果评选二等奖
+* 2013: 中国保监会消费者权益保护优秀成果一等奖
+* 2011: 上海市“浦江人才”
+* 2011: 国家减灾委员会与民政部全国减灾救灾政策理论研究成果二等奖
