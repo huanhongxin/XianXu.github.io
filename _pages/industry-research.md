@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 行业研究
+title: 
 permalink: industry-research
 author_profile: true
 ---
