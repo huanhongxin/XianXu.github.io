@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人履历"
+title: "个人简历"
 permalink: cv
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## 个人简介
+## 个人履历
 
 * 2024.10 - 至今: 复旦大学经济学院副院长
 * 2024.03 - 至今: 复旦大学保险应用创新研究院副院长、学术委员会秘书长
