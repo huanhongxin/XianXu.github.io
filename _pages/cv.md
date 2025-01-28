@@ -1,5 +1,5 @@
 layout: archive
-title: "个人简历"
+title: "个人简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
