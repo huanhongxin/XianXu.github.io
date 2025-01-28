@@ -4,22 +4,23 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
 
+main:
   - title: "个人履历"
     url: cv
-    
+
   - title: "学术研究"
     url: publications
 
   - title: "行业研究"
-    url: /talks/     
+    url: industry-research
 
   - title: "教学课程"
-    url: /teaching/    
-    
+    url: teaching
+
   - title: "团队成员"
-    url: /portfolio/
+    url: team-members
+
         
     
     
