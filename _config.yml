@@ -24,8 +24,8 @@ author:
   avatar           : "许闲_官方照片.jpg"
   name             : # name
   pronouns         : # example: "she/her"  
-  bio              : "座右铭：ABC"
-  location         : "上海市杨浦区"
+  bio              : #
+  location         : "上海市杨浦区国权路600号"
   employer         : "复旦大学"
   uri              : # URL
   email            : "xxuita@gmail.com" 
