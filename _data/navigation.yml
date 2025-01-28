@@ -12,7 +12,10 @@ main:
   - title: "学术著作"
     url: sitemap
 
-  - title: "行业研究"
+  - title: "研究项目"
+    url: research-programme
+    
+  - title: "行业课题"
     url: industry-research
 
   - title: "教学课程"
