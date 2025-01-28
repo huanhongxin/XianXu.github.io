@@ -6,7 +6,7 @@
 
 
 main:
-  - title: "个人履历"
+  - title: "个人简介"
     url: cv
 
   - title: "学术研究"
