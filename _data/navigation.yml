@@ -9,23 +9,17 @@ main:
   - title: "个人简介"
     url: /cv/
     
-  - title: "Publications"
+  - title: "学术研究"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "行业研究"
+    url: /talks/     
 
-  - title: "Teaching"
+  - title: "教学课程"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "团队成员"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
