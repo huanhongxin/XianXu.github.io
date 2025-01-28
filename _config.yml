@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "许闲"
+  name             : # name
   pronouns         : # example: "she/her"  
   bio              : "座右铭：ABC"
   location         : "上海市杨浦区"
