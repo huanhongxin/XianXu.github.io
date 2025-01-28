@@ -7,10 +7,10 @@
 main:
 
   - title: "个人简介"
-    url: /cv/
+    url: cv
     
   - title: "学术研究"
-    url: /publications/
+    url: publications
 
   - title: "行业研究"
     url: /talks/     
