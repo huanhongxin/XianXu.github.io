@@ -10,7 +10,7 @@ main:
     url: cv
 
   - title: "学术研究"
-    url: publications
+    url: sitemap
 
   - title: "行业研究"
     url: industry-research
