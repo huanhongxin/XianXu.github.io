@@ -66,7 +66,7 @@ author_profile: true
    with Chen, A., and Hentschel, F.  
    ![Article Image](./images/Optimal Retirement Time under Habit Persistence.png)
 
-4. [**The Impact of Public-Private Partnership Health Plans on Private Insurance**]
+4. **The Impact of Public-Private Partnership Health Plans on Private Insurance**  
    2025, Working Paper.  
    with Ding, H., and Wang, X.
    
@@ -78,7 +78,7 @@ author_profile: true
 ### 代表性研究成果：
 1. [**中国保险业：高质量发展与金融强国之路**]
    科学出版社，2024年7月.  
-   ![Book Image](./images/中国保险业：高质量发展与金融强国之路.png)
+   ![Article Image](./images/中国保险业：高质量发展与金融强国之路.png)
 
 2. [**Chinese Insurance Markets: Developments and Prospects**](https://doi.org/10.3386/w31292)  
    Forthcoming at *Handbook of Insurance* (3rd edition), edited by Dionne, G., Springer, 2025 (NBER Working Paper 31292).  
@@ -96,23 +96,22 @@ author_profile: true
    *保险研究*, 2022 (1): 21-32.  
    与杨昊.  
 
-6. [**保险大国崛起：中国模式**]
-   复旦大学出版社，2019年5月.  
-   ![Book Image](./images/保险大国崛起：中国模式.png)
+6. **保险大国崛起：中国模式**  
+   复旦大学出版社，2019年5月.
+   ![Article Image](./images/保险大国崛起：中国模式.png)
 
 7. [**国际保险会计准则的最新发展及对我国的影响——基于IFRS 17和IFRS 9**](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=KJYJ201901004&uniplatform=OVERSEA&v=sFD8SYfSaVBbRa2uquSa8F79xb6BQpi9PwlFmeRtvQX3qS3KHlORtuIc3UZ1DkBS)  
    *会计研究*, 2019 (1): 21-27.  
 
 
-8. [**Gender, Competition, and Real-Life Work Performance of Insurance Agents**] 
+8. **Gender, Competition, and Real-Life Work Performance of Insurance Agents**  
    2025, Revise & Resubmit at *Journal of Risk and Insurance*.  
-   with Yang, N., and Zuo, S. X.  
+   with Yang, N., and Zuo, S. X.
 
 
-9. [**Financial Consumer Protection via the Online Disclosure of Insurance Complaints**]
+9. **Financial Consumer Protection via the Online Disclosure of Insurance Complaints**  
    2025, Working Paper.  
-   with Ding, J., Ng, J., and Zou, H.  
-
+   with Ding, J., Ng, J., and Zou, H.
 
 ## 可持续发展（灾害经济学，绿色保险）
 
@@ -141,7 +140,7 @@ author_profile: true
    *Journal of Banking and Finance*, 2019, 99, pp. 63-94.  
    with Wang, L., Menkhoff, L., and Schröder, M.  
 
-6. [**中国自然灾害经济学研究**] 
-   上海人民出版社，2018年8月.  
-   ![Book Image](./images/中国自然灾害经济学研究.png)
+6. **中国自然灾害经济学研究.**  
+   上海人民出版社，2018年8月.
+   ![Article Image](./images/中国自然灾害经济学研究.png)
 
