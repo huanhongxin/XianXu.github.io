@@ -10,7 +10,7 @@ author_profile: true
 
 聚焦数字经济前沿议题，致力于丰富理论与实践对新技术（人工智能大语言模型等）在金融保险领域中新应用、新场景及新趋势的认识，并就衍生出的各类新风险提出保险应对和风险管理策略。
 
-### 代表性研究：
+### 代表性研究成果：
 1. [**The Risk Screening Effect of Digital Insurance Distribution**](https://doi.org/10.1111/jori.12496)  
    *Journal of Risk and Insurance*, 2024, 91(4), pp. 841-866.  
    with Murphy, F., and Xu, W.  
@@ -50,7 +50,7 @@ author_profile: true
 
 关注多层次社会保障体系构建完善进程中社商融合发展以及医保、医疗、医药“三医联动”的机制与逻辑，致力于评估健康、养老保险的功能发挥，探索普惠保险发展与支持生物医药等相关产业创新的路径。
 
-### 代表性研究：
+### 代表性研究成果：
 1. [**中国商业健康保险发展：演进与创新——基于2009-2022年中国医疗保险条款数据的分析**](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwODMxEhNmZHhiLXNoa3hiMjAyMzA1MDE5GggzeTdvMzZtNw==)  
    *复旦学报（社会科学版）*, 2023, 65(5): 181-190.  
    与林陈威、尹轶帆.  
