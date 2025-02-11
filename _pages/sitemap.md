@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "学术著作"
-permalink: sitemap
+permalink: Publications
 author_profile: true
 ---
 
