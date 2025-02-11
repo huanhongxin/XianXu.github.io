@@ -76,9 +76,9 @@ author_profile: true
 在需求侧，从行为经济学和行为金融学的视角分析消费者的微观决策机制与行为变化；在供给侧，系统性研判行业发展中宏观、中观层面的重要实践问题；综合二者，形成对消费者权益保护现况的全面认识与系统性解决方案。
 
 ### 代表性研究成果：
-1. [**中国保险业：高质量发展与金融强国之路**]
-   科学出版社，2024年7月.  
-   ![Article Image](./images/中国保险业：高质量发展与金融强国之路.png)
+1. **中国保险业：高质量发展与金融强国之路.**  
+   科学出版社，2024年7月.
+   ![Book Image](./images/中国保险业：高质量发展与金融强国之路.png)
 
 2. [**Chinese Insurance Markets: Developments and Prospects**](https://doi.org/10.3386/w31292)  
    Forthcoming at *Handbook of Insurance* (3rd edition), edited by Dionne, G., Springer, 2025 (NBER Working Paper 31292).  
@@ -98,7 +98,7 @@ author_profile: true
 
 6. **保险大国崛起：中国模式**  
    复旦大学出版社，2019年5月.
-   ![Article Image](./images/保险大国崛起：中国模式.png)
+   ![Book Image](./images/保险大国崛起：中国模式.png)
 
 7. [**国际保险会计准则的最新发展及对我国的影响——基于IFRS 17和IFRS 9**](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=KJYJ201901004&uniplatform=OVERSEA&v=sFD8SYfSaVBbRa2uquSa8F79xb6BQpi9PwlFmeRtvQX3qS3KHlORtuIc3UZ1DkBS)  
    *会计研究*, 2019 (1): 21-27.  
@@ -142,5 +142,5 @@ author_profile: true
 
 6. **中国自然灾害经济学研究.**  
    上海人民出版社，2018年8月.
-   ![Article Image](./images/中国自然灾害经济学研究.png)
+   ![Book Image](./images/中国自然灾害经济学研究.png)
 
