@@ -304,7 +304,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  - jekyll-multiple-languages-plugin
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
@@ -351,8 +351,13 @@ compress_html:
   ignore:
     envs: development
 
-plugins:
-  - jekyll-i18n
+# plugins:
+#   - jekyll-i18n
+
+# languages:
+#   - en
+#   - zh
+
 
 languages:
   - en
