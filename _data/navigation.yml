@@ -4,7 +4,6 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-
 main:
   - title: "个人简介"
     url: CV
@@ -26,8 +25,6 @@ main:
 
   - title: "English"
     url: en  # 新增英文页面链接
-
-
-        
-    
-    
+  
+  - title: "Deutsch"
+    url: de  # 新增德语页面链接
