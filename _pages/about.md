@@ -20,4 +20,5 @@ redirect_from:
 - 可持续发展（灾害经济学，绿色保险）
 
 ## 联系方式
-xianxu@fudan.edu.cn
+[xianxu (at) fudan (dot) edu (dot) cn](mailto:xianxu@fudan.edu.cn)
+
