@@ -24,6 +24,10 @@ main:
   - title: "团队成员"
     url: Team-Members
 
+  - title: "English"
+    url: English  # 新增英文页面链接
+
+
         
     
     
