@@ -7,22 +7,22 @@
 
 main:
   - title: "个人简介"
-    url: cv
+    url: CV
 
   - title: "学术著作"
-    url: sitemap
+    url: Publications
 
-  - title: "研究项目"
-    url: research-programme
+  - title: "项目课题"
+    url: Research_Programme
     
-  - title: "行业课题"
-    url: industry-research
+  - title: "会议活动"
+    url: Event_Organization
 
   - title: "教学课程"
-    url: teaching
+    url: Teaching
 
   - title: "团队成员"
-    url: team-members
+    url: Team_Members
 
         
     
