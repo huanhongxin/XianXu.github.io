@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 会议活动
-permalink: Industry-research
+permalink: Event-Organization
 author_profile: true
 ---
 
