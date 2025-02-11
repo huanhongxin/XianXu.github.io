@@ -19,7 +19,7 @@ author_profile: true
 2. [**How Does the Insurer’s Mobile Application Sales Strategy Perform?**](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3985977)  
    *Journal of Risk and Insurance*, 2023, 90(2), pp. 487-519.  
    with Chen, A., Chen, Y., Chen, Murphy, F., and Xu, W.  
-   ![Article Image](./images/How Does the Insurer’s Mobile Application Sales Strategy Perform.png)
+   ![Article Image](./images/How Does the Insurer's Mobile Application Sales Strategy Perform.png)
 
 3. [**Dynamic Communication and Perception of Cyber Risk: Evidence from Big Data in Media**](https://doi.org/10.1016/j.chb.2021.106851)  
    *Computers in Human Behavior*, 2021, 122, 106851.  
@@ -54,7 +54,7 @@ author_profile: true
 1. [**中国商业健康保险发展：演进与创新——基于2009-2022年中国医疗保险条款数据的分析**](https://doi.org/10.3969/j.issn.1000-8683.2023.05.009)  
    *复旦学报（社会科学版）*, 2023, 65(5): 181-190.  
    与林陈威、尹轶帆.  
-   ![Article Image](./images/中国商业健康保险发展.png)
+   ![Article Image](./images/中国商业健康保险发展：演进与创新.png)
 
 2. [**Care-Dependent Tontines**](https://doi.org/10.1016/j.insmatheco.2022.69)  
    *Insurance: Mathematics and Economics*, 2022, 106, pp. 69-89.  
@@ -142,7 +142,6 @@ author_profile: true
 5. [**Politicians’ Promotion Incentives and Bank Risk Exposure in China**](https://doi.org/10.1016/j.jbankfin.2019.01.012)  
    *Journal of Banking and Finance*, 2019, 99, pp. 63-94.  
    with Wang, L., Menkhoff, L., and Schröder, M.  
-   ![Article Image](./images/Politicians’ Promotion Incentives.png)
 
 6. [**中国自然灾害经济学研究**](https://doi.org/10.2139/ssrn.3284252)  
    上海人民出版社，2018年8月.  
