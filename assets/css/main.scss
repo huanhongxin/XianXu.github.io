@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* 使 'English' 链接显示为蓝色并加下划线 */
+nav a[href*="en"] {
+  color: #007bff;
+  text-decoration: underline;
+}
