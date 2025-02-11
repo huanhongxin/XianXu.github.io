@@ -5,7 +5,6 @@ permalink: research-and-industry
 author_profile: true
 ---
 
-{% include base_path %}
 
 ## 重大研究项目/课题
 
