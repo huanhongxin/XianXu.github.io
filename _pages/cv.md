@@ -32,7 +32,7 @@ redirect_from:
 * Asia Pacific Risk and Insurance Association (亚太风险与保险学会)，Board of Governors (常务理事)
 * International Academy of Financial Consumers (国际金融消费者学会)，Board of Directors (常务理事)
 * 清华大学中国保险与风险管理中心，学术委员
-* 《保险研究》、《中国保险》、《上海保险》、Disaster Prevention and Management 编委
+* 《保险研究》、《中国保险》、《上海保险》、*Disaster Prevention and Management* 编委
 * 《中国科学：信息科学》特约编辑
 
 ## 荣誉奖项
