@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "研究项目与行业课题"
-permalink: research-and-industry
+permalink: research-programme
 author_profile: true
 ---
 
