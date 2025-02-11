@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: en
 title: "Xian Xu"
 author_profile: true
 redirect_from: 
