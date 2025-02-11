@@ -15,7 +15,7 @@ author_profile: true
    *Journal of Risk and Insurance*, 2024, 91(4), pp. 841-866.  
    with Murphy, F., and Xu, W.
    
-   ![Article Image](The Risk Screening Effect of Digital Insurance Distribution.png)
+   ![Article Image](./images/The Risk Screening Effect of Digital Insurance Distribution.png)
 
 3. **How Does the Insurer’s Mobile Application Sales Strategy Perform?**  
    *Journal of Risk and Insurance*, 2023, 90(2), pp. 487-519.  
