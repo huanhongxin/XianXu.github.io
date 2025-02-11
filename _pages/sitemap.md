@@ -11,31 +11,33 @@ author_profile: true
 聚焦数字经济前沿议题，致力于丰富理论与实践对新技术（人工智能大语言模型等）在金融保险领域中新应用、新场景及新趋势的认识，并就衍生出的各类新风险提出保险应对和风险管理策略。
 
 ### 代表性研究：
-1. **The Risk Screening Effect of Digital Insurance Distribution.**  
+1. [**The Risk Screening Effect of Digital Insurance Distribution**](https://doi.org/10.1111/jori.12496)  
    *Journal of Risk and Insurance*, 2024, 91(4), pp. 841-866.  
    with Murphy, F., and Xu, W.
+   
+   ![Article Image](The Risk Screening Effect of Digital Insurance Distribution*.png)
 
-2. **How Does the Insurer’s Mobile Application Sales Strategy Perform?**  
+3. **How Does the Insurer’s Mobile Application Sales Strategy Perform?**  
    *Journal of Risk and Insurance*, 2023, 90(2), pp. 487-519.  
    with Chen, A., Chen, Y. Chen, Murphy, F., and Xu, W.
 
-3. **Dynamic Communication and Perception of Cyber Risk: Evidence from Big Data in Media.**  
+4. **Dynamic Communication and Perception of Cyber Risk: Evidence from Big Data in Media.**  
    *Computers in Human Behavior*, 2021, 122, 106851.  
    with Xu, W., Murphy, F., and Xing, W.
 
-4. **A Framework for the Evaluation of InsurTech.**  
+5. **A Framework for the Evaluation of InsurTech.**  
    *Risk Management and Insurance Review*, 2020, 23(4), pp. 305-329.  
    with Zweifel, P.
 
-5. **InsurTech Development: Evidence from Chinese Media Reports.**  
+6. **InsurTech Development: Evidence from Chinese Media Reports.**  
    *Technological Forecasting and Social Change*, 2020, 161, 120277.  
    with Cao, S., and Lyu, H.
 
-6. **Autonomous Vehicles, Risk Perceptions and Insurance Demand: An Individual Survey in China.**  
+7. **Autonomous Vehicles, Risk Perceptions and Insurance Demand: An Individual Survey in China.**  
    *Transportation Research Part A: Policy and Practice*, 2019, 124, pp. 549-556.  
    with Fan, C.-K.
 
-7. **区块链与保险创新：机制、前景与挑战.**  
+8. **区块链与保险创新：机制、前景与挑战.**  
    *保险研究*, 2017 (5): 43-52.  
    （国内最早系统性讨论保险科技话题的文章之一，知网引用181次）
 
