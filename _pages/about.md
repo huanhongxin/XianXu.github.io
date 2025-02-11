@@ -1,5 +1,5 @@
 ---
-permalink: "index.html"
+permalink: /
 title: "许闲"
 author_profile: true
 redirect_from: 
