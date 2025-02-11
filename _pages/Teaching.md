@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: teaching/
+permalink: Teaching
 author_profile: true
 ---
 
