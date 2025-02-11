@@ -13,16 +13,16 @@ main:
     url: Publications
 
   - title: "项目课题"
-    url: Research_Programme
+    url: Research-Programme
     
   - title: "会议活动"
-    url: Event_Organization
+    url: Event-Organization
 
   - title: "教学课程"
     url: Teaching
 
   - title: "团队成员"
-    url: Team_Members
+    url: Team-Members
 
         
     
