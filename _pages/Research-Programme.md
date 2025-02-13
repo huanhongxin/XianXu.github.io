@@ -5,7 +5,6 @@ permalink: Research-Programme
 author_profile: true
 ---
 
-
 ## 重大研究项目/课题
 
 - **“基于保险制度建设的国家风险管理体系研究”**，国家社会科学基金重大项目
